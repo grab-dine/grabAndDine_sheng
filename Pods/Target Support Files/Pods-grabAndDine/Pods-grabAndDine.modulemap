@@ -1,0 +1,6 @@
+framework module Pods_grabAndDine {
+  umbrella header "Pods-grabAndDine-umbrella.h"
+
+  export *
+  module * { export * }
+}
